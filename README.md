@@ -25,7 +25,7 @@ Semi-Automatic Classification Plugin </td>
 <td> <a href="https://plugins.qgis.org/plugins/Qgis2threejs/">Qgis2threejs </td>
 </tr>
   <tr>
-<td>  2.- Google Earth Engine  </td>
+<td>  3.- Google Earth Engine  </td>
   <td>
     0.0.3
   </td>
@@ -33,7 +33,7 @@ Semi-Automatic Classification Plugin </td>
 <td> <a href="https://plugins.qgis.org/plugins/ee_plugin/">Google Earth Engine </td>
 </tr>
   <tr>
-<td>  2.- SRTM-Downloader  </td>
+<td>  4.- SRTM-Downloader  </td>
   <td>
     3.1.9
   </td>
@@ -41,7 +41,7 @@ Semi-Automatic Classification Plugin </td>
 <td> <a href="https://plugins.qgis.org/plugins/SRTM-Downloader/">SRTM-Downloader </td>
 </tr>
   <tr>
-<td>  2.- QuickMapServices  </td>
+<td>  5.- QuickMapServices  </td>
   <td>
     0.19.11.1
   </td>
